@@ -1,0 +1,102 @@
+header{
+    background: #264653;
+}
+/* navbar start */
+/* .navbar{
+    background: rgba(0, 0, 0, 0.637);
+} */
+.navbar-icon{
+    color: white;
+}
+.navbar-brand{
+    color:#E76F51 ;
+}
+.nav-link{
+    transition: 1s;
+    color: white;
+}
+/* navbar end */
+
+.cutome-btn{
+    padding: 10px 45px;
+    background: #E76F51;
+    color: white;
+}
+
+.custom-color{
+    color: #E76F51
+}
+
+.title{
+    font-size: 48px;
+}
+.title h1{
+    font-size: 48px;
+}
+
+h1 span{
+    color: #E76F51;
+    margin-top: 150px;
+}
+
+.hr-style{
+    width: 50px;
+    height:4px;
+    text-align: center;
+    color: #E76F51;
+}
+
+/* feature images style start */
+
+.grayscale-img{
+    filter: grayscale(100%);
+}
+
+.feature-bike{
+    transition: transform 3s ease-in-out;
+}
+.feature-bike:hover{
+    transform: scale(1.5);
+}
+
+/* feature images style end */
+
+.atractive-color{
+    color: #6C6C6C;
+}
+
+.extra-style{
+    background: #E76F51;
+    padding: 12px 40px;
+}
+
+/* icons color */
+.fa-star{
+    color: #E77C40;
+}
+
+
+.carsol-title{
+    text-shadow: 10px 10px 15px darkblue;
+    background-color: rgba(0, 128, 0, 0.521);
+}
+.carsol-text{
+    color: #5aff18;
+    background: rgba(63, 4, 4, 0.486);
+}
+
+/* .order-section  */
+.form{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+/* .order-section  */
+
+.fa-motorcycle{
+    font-size: 168px;
+}
+footer{
+    background: black;
+}
